@@ -33,3 +33,4 @@ cd 04-servidor-apache
 ## 📸 Captura de ejemplo
 
 ![Sitio web de prueba](./apache-demo.png)
+
